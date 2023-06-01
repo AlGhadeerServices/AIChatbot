@@ -1,8 +1,0 @@
-OPENAI_API_KEY=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
-
-# Update these with your pinecone details from your dashboard. 
-# PINECONE_INDEX_NAME is in the indexes tab under "index name" in blue
-# PINECONE_ENVIRONMENT is in indexes tab under "Environment". Example: "us-east1-gcp"
-PINECONE_API_KEY=7e143097-3bf5-4daa-ba16-4fd701ef3925
-PINECONE_ENVIRONMENT=us-east4-gcp
-PINECONE_INDEX_NAME=alghadeer-chatbot
